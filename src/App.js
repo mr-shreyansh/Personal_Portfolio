@@ -4,7 +4,6 @@ import About from './pages/About';
 import Experience from './pages/Experience';
 import Home from './pages/Home';
 import Projects from './pages/Projects';
-import { Parallax} from 'react-scroll-parallax';
 function App() {
   return (
     <div className="relative App">
