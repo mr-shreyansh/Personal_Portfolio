@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio/static/css/main.5a751b36.css",
-    "main.js": "/Personal-Portfolio/static/js/main.d013e27d.js",
-    "static/media/show-finder.png": "/Personal-Portfolio/static/media/show-finder.363d3264bd320f13ed21.png",
-    "static/media/rework-task.png": "/Personal-Portfolio/static/media/rework-task.5024f9b3645525609fc0.png",
-    "static/media/facebook.png": "/Personal-Portfolio/static/media/facebook.5ce3a1ca8559b4dc0487.png",
-    "static/media/react-2.svg": "/Personal-Portfolio/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
-    "static/media/nodejs-2.svg": "/Personal-Portfolio/static/media/nodejs-2.38d424a0fa8071e904b1b9fb12a23df3.svg",
-    "static/media/mongodb-icon-1.svg": "/Personal-Portfolio/static/media/mongodb-icon-1.1aca075d5cce0819fea7ea0902d94ce4.svg",
-    "static/media/flutter.svg": "/Personal-Portfolio/static/media/flutter.9a496ae25b064ea252617eecbce6d6b7.svg",
-    "index.html": "/Personal-Portfolio/index.html",
-    "static/media/tailwind-css-2.svg": "/Personal-Portfolio/static/media/tailwind-css-2.315d0ac2a2708d5f06972906113dfbf1.svg",
-    "static/media/css-3.svg": "/Personal-Portfolio/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
-    "static/media/html-1.svg": "/Personal-Portfolio/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
-    "static/media/javascript-1.svg": "/Personal-Portfolio/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.5a751b36.css.map": "/Personal-Portfolio/static/css/main.5a751b36.css.map",
-    "main.d013e27d.js.map": "/Personal-Portfolio/static/js/main.d013e27d.js.map"
+    "main.css": "/Personal_Portfolio/static/css/main.5a751b36.css",
+    "main.js": "/Personal_Portfolio/static/js/main.985cebab.js",
+    "static/media/show-finder.png": "/Personal_Portfolio/static/media/show-finder.363d3264bd320f13ed21.png",
+    "static/media/rework-task.png": "/Personal_Portfolio/static/media/rework-task.5024f9b3645525609fc0.png",
+    "static/media/facebook.png": "/Personal_Portfolio/static/media/facebook.5ce3a1ca8559b4dc0487.png",
+    "static/media/react-2.svg": "/Personal_Portfolio/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/nodejs-2.svg": "/Personal_Portfolio/static/media/nodejs-2.38d424a0fa8071e904b1b9fb12a23df3.svg",
+    "static/media/mongodb-icon-1.svg": "/Personal_Portfolio/static/media/mongodb-icon-1.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "static/media/flutter.svg": "/Personal_Portfolio/static/media/flutter.9a496ae25b064ea252617eecbce6d6b7.svg",
+    "index.html": "/Personal_Portfolio/index.html",
+    "static/media/tailwind-css-2.svg": "/Personal_Portfolio/static/media/tailwind-css-2.315d0ac2a2708d5f06972906113dfbf1.svg",
+    "static/media/css-3.svg": "/Personal_Portfolio/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html-1.svg": "/Personal_Portfolio/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/javascript-1.svg": "/Personal_Portfolio/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.5a751b36.css.map": "/Personal_Portfolio/static/css/main.5a751b36.css.map",
+    "main.985cebab.js.map": "/Personal_Portfolio/static/js/main.985cebab.js.map"
   },
   "entrypoints": [
     "static/css/main.5a751b36.css",
-    "static/js/main.d013e27d.js"
+    "static/js/main.985cebab.js"
   ]
 }
